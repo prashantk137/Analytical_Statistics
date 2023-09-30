@@ -15,3 +15,6 @@ Below are the statistics which is covered in the repository.
 - Data Visualization
 
 The practical of the topic is performed on jupyter notebook.
+
+Credit -
+These all above topics is covered and learned by me with the help of Krish Naik lecture.
